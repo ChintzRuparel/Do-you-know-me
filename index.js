@@ -12,11 +12,11 @@ var questions = [{
   answer: "Mumbai"
 }, 
 {
-  question: "what is my fav movie?  ",
+  question: "Chintan's Favourite Movie?  ",
   answer: "The wolf of wall street"
 },
 {
-  question: "Where do I work? ",
+  question: "Where does Chintan Ruparel Work?  ",
   answer: "Emreach Solutions"
 }];
 
